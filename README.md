@@ -58,7 +58,7 @@ Visit the live platform: [PSIT Virtual Labs](https://psit-virtual-labs-d63a34.ne
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Akshat394/PSIT-VIRTUAL-LABS.git
+   git clone https://github.com/AbhishekSriv6387/psit-virtual-labs
    ```
 
 2. Open `index.html` in your web browser to start exploring the virtual labs.
@@ -88,7 +88,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- **Akshat** - *Initial work* - [Akshat394](https://github.com/Akshat394)
+- **Abhishek Srivastava** - *Initial work* 
 
 ## 🙏 Acknowledgments
 
